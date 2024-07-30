@@ -9,8 +9,7 @@ import {
   TableView,
   ModalComponent,
   Calendar,
-  CalendarWeb,
-} from "./components";
+} from './components';
 
 export {
   Container,
@@ -23,5 +22,4 @@ export {
   TableView,
   ModalComponent,
   Calendar,
-  CalendarWeb,
 };
